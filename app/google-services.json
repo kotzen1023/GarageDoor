@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "188553773147",
+    "firebase_url": "https://garagedoor-d01f4.firebaseio.com",
+    "project_id": "garagedoor-d01f4",
+    "storage_bucket": "garagedoor-d01f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188553773147:android:2418434de175cfe8337f7e",
+        "android_client_info": {
+          "package_name": "com.seventhmoon.garagedoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188553773147-721evj9tfk0eclao1b4koini80vb08t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seventhmoon.garagedoor",
+            "certificate_hash": "a2a1418aa0461612dc55ef66d0d234f98d578d02"
+          }
+        },
+        {
+          "client_id": "188553773147-dok3a2t45abjamgo5p1jeeifda0fdrv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp8HSQ5iX_Q_SznKy2FCGdfcSXhGr_lGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188553773147-dok3a2t45abjamgo5p1jeeifda0fdrv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
